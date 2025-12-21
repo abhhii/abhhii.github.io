@@ -9,6 +9,14 @@ export const projects: Project[] = [
     githubUrl: 'https://github.com/abhhii/twigger',
   },
   {
+    id: 'stock-app',
+    title: 'Investment Real Value - Drishta',
+    description: 'A modern web application that analyzes stock performance in real value terms by measuring stocks against commodities like gold, silver, or oil. This provides insight into true purchasing power growth independent of fiat currency inflation..',
+    technologies: ['TypeScript', 'Plotly', 'React'],
+    githubUrl: 'https://github.com/abhhii/drishta',
+    liveUrl: 'https://drishta-nx7fvqul4-abhishek-vercels-projects.vercel.app/',
+  },
+  {
     id: 'inventory-management',
     title: 'Inventory Management App',
     description: 'An android application for managing stock levels in warehouse. Built with modern Android development practices.',
