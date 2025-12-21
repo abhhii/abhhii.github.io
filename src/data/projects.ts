@@ -21,7 +21,7 @@ export const projects: Project[] = [
     description: 'A modern web application that analyzes stock performance in real value terms by measuring stocks against commodities like gold, silver, or oil. This provides insight into true purchasing power growth independent of fiat currency inflation.',
     technologies: ['Vite', 'TypeScript', 'React'],
     githubUrl: 'https://github.com/abhhii/drishta',
-    liveUrl: 'https://drishta-nx7fvqul4-abhishek-vercels-projects.vercel.app/',
+    liveUrl: 'https://drishta.vercel.app/',
   },
   {
     id: 'trichy-guide',
