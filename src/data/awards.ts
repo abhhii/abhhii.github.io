@@ -21,8 +21,7 @@ export const awards: Award[] = [
     organization: 'Government of Uttar Pradesh',
     year: '2017',
     description: 'Recognized for exceptional performance in science and mathematics aptitude.',
-  }
-  // ,
+  },
   // {
   //   id: 'intel-edge-ai',
   //   title: 'Intel Edge AI Scholarship',
