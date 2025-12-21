@@ -22,13 +22,6 @@ export const awards: Award[] = [
     year: '2017',
     description: 'Recognized for exceptional performance in science and mathematics aptitude.',
   },
-  // {
-  //   id: 'intel-edge-ai',
-  //   title: 'Intel Edge AI Scholarship',
-  //   organization: 'Intel & Udacity',
-  //   year: '2019',
-  //   description: 'Selected for Intel Edge AI Scholarship program to learn AI at the edge with OpenVINO toolkit.',
-  // },
 ];
 
 export const education: Education[] = [
