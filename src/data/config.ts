@@ -7,8 +7,8 @@ export const personalInfo: PersonalInfo = {
   email: 'abhhii.cse@gmail.com', // Update with actual email
   location: 'New Delhi, India',
   bio: 'Passionate Backend Developer specializing in Spring Boot, Kafka, and PostgreSQL. With over 4 years of experience building scalable distributed systems and microservices, I focus on creating robust solutions that drive business value. Strong advocate for clean code, test-driven development, and collaborative problem-solving.',
-  profileImage: '/abhhii.github.io/profile.jpg', // Add profile image to public folder
-  resumeUrl: '/abhhii.github.io/resume.pdf', // Add resume PDF to public folder
+  profileImage: '/profile.jpg', // Add profile image to public folder
+  resumeUrl: '/resume.pdf', // Add resume PDF to public folder
 };
 
 export const socialLinks: SocialLink[] = [

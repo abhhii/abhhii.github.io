@@ -11,7 +11,7 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/abhhii.github.io/',
+  base: '/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),

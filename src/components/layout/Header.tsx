@@ -61,7 +61,7 @@ export default function Header() {
               className="flex items-center focus:outline-none focus:ring-2 focus:ring-primary-500 rounded-full"
             >
               <img 
-                src="/abhhii.github.io/profile.png" 
+                src="/profile.png" 
                 alt="Abhishek Singhal" 
                 className="w-10 h-10 rounded-full object-cover ring-2 ring-gray-200 dark:ring-gray-700 hover:ring-primary-500 dark:hover:ring-primary-400 transition-all"
               />
