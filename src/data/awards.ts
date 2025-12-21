@@ -5,8 +5,8 @@ export const awards: Award[] = [
     id: 'sprint-awards',
     title: 'Star of the sprint awards',
     organization: 'Nextuple Inc',
-    year: '2021 - 2024',
-    description: 'Awarded multiple star of the sprints for outstanding contribution and significant impact during the sprint.',
+    year: '2021',
+    description: 'Awarded multiple star of the sprints from year 2021 to 2024 for outstanding contribution and significant impact during the sprint.',
   },
   {
     id: 'google-scholarship',
