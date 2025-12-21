@@ -1,12 +1,14 @@
 import { motion } from 'framer-motion';
-import { FiGithub, FiStar, FiGitBranch, FiExternalLink } from 'react-icons/fi';
+import { FiGithub } from 'react-icons/fi';
+// import { FiGithub, FiStar, FiGitBranch, FiExternalLink } from 'react-icons/fi';
 import Card from '../ui/Card';
-import Badge from '../ui/Badge';
+// import Badge from '../ui/Badge';
 import { useGitHubData } from '../../hooks/useGitHubData';
 import { githubUsername } from '../../data/config';
 
 export default function GitHub() {
-  const { repos, stats, loading, error } = useGitHubData(githubUsername);
+  const { stats, loading, error } = useGitHubData(githubUsername);
+  // const { repos, stats, loading, error } = useGitHubData(githubUsername);
 
   if (loading) {
     return (
