@@ -16,6 +16,14 @@ export const projects: Project[] = [
     githubUrl: 'https://github.com/abhhii/InventoryManager',
   },
   {
+    id: 'stock-track-app',
+    title: 'Drishta - Stocks Real Value tracker',
+    description: 'A modern web application that analyzes stock performance in real value terms by measuring stocks against commodities like gold, silver, or oil. This provides insight into true purchasing power growth independent of currency inflation.',
+    technologies: ['TypeScript', 'Vite', 'React', 'TailwindCSS'],
+    githubUrl: 'https://github.com/abhhii/drishta',
+    liveUrl: 'https://drishta-nx7fvqul4-abhishek-vercels-projects.vercel.app/',
+  },
+  {
     id: 'trichy-guide',
     title: 'TrichyGuide',
     description: 'City guide mobile application showcasing local attractions, restaurants, and cultural sites in Tiruchirappalli.',
